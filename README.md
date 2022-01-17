@@ -46,3 +46,7 @@ The following screenshots will answer the listed bulleted questions in the chall
 ### Amazon_Vine_Analysis Summary
 ___
 
+Results show that a slightly higher percentage of 5-star reviews were paid, however the number is far too close to give accurate insight in whether there was bias or not. 
+
+Another factor to analyze that would increase the credibility of this data, as well as give more insight in the bias question is a verification check for all the reviews. This would sort out automated reviews done by bots and exclude these, so that more reliable data can be analyzed overall.
+ 
