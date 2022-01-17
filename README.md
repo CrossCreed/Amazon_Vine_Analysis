@@ -33,7 +33,7 @@ The following screenshots will answer the listed bulleted questions in the chall
 ![4](https://user-images.githubusercontent.com/89520192/149707527-c776d1c4-5911-4163-99de-fdf46fb7cf75.PNG)
 
 
-**% of Paid 5-star reviews **
+**% of Paid 5-star reviews**
 
 ![5](https://user-images.githubusercontent.com/89520192/149707531-5db2427c-efc8-41de-91ed-3426d8855d70.PNG)
 
